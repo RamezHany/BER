@@ -2,25 +2,6 @@
 
 <img src="https://github.com/RamezHany/RamezHany/blob/main/profile-img.png" align="right" width="25%"/>
 
-## Team Members
-- **Benjamin**
-  - <a href="https://www.facebook.com/benjamin.profile"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  - <a href="https://twitter.com/benjamin.profile"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-  - <a href="https://www.linkedin.com/in/benjamin.profile"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  - <a href="https://www.instagram.com/benjamin.profile"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-
-- **Eman**
-  - <a href="https://www.facebook.com/eman.profile"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  - <a href="https://twitter.com/eman.profile"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-  - <a href="https://www.linkedin.com/in/eman.profile"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  - <a href="https://www.instagram.com/eman.profile"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-
-- **Ramz (Team Lead)**
-  - <a href="https://www.facebook.com/ramezhany.online"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  - <a href="https://twitter.com/rramezhany"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-  - <a href="https://www.linkedin.com/in/rramezhany"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  - <a href="https://www.instagram.com/rramez.hany"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-
 ## Overview
 Welcome to the BER team repository! We are a team of passionate programmers dedicated to solving complex problems and improving our skills in various areas of computer science.
 
@@ -83,6 +64,32 @@ Feel free to reach out to us for any questions or collaboration ideas:
 - **Benjamin**: [Email](mailto:benjamin@example.com)
 - **Eman**: [Email](mailto:eman@example.com)
 - **Ramz (Team Lead)**: [Email](mailto:ramz@example.com)
+
+## Team Members
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Benjamin-%231877F2?style=flat&logo=facebook&logoColor=white"/>
+  <a href="https://www.facebook.com/benjamin.profile"><img src="https://img.shields.io/badge/facebook-%231877F2?style=social&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/benjamin.profile"><img src="https://img.shields.io/badge/x-%231FA1F1?style=social&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/benjamin.profile"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=social&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/benjamin.profile"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=social&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Eman-%231877F2?style=flat&logo=facebook&logoColor=white"/>
+  <a href="https://www.facebook.com/eman.profile"><img src="https://img.shields.io/badge/facebook-%231877F2?style=social&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/eman.profile"><img src="https://img.shields.io/badge/x-%231FA1F1?style=social&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eman.profile"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=social&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eman.profile"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=social&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ramz (Team Lead)-%231877F2?style=flat&logo=facebook&logoColor=white"/>
+  <a href="https://www.facebook.com/ramezhany.online"><img src="https://img.shields.io/badge/facebook-%231877F2?style=social&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/rramezhany"><img src="https://img.shields.io/badge/x-%231FA1F1?style=social&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rramezhany"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=social&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/rramez.hany"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=social&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
