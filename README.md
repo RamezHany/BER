@@ -1,32 +1,25 @@
 <h1 align="center">Welcome to BER Team's Repository 👋</h1>
 
-<p align="center">
-    <a href="https://www.facebook.com/benjamin.profile"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
-    <a href="https://twitter.com/benjamin.profile"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/benjamin.profile"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/benjamin.profile"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
-
-<p align="center">
-    <a href="https://www.facebook.com/eman.profile"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
-    <a href="https://twitter.com/eman.profile"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/eman.profile"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/eman.profile"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
-
-<p align="center">
-    <a href="https://www.facebook.com/ramezhany.online"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
-    <a href="https://twitter.com/rramezhany"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/rramezhany"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/rramez.hany"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
-
 <img src="https://github.com/RamezHany/RamezHany/blob/main/profile-img.png" align="right" width="25%"/>
 
 ## Team Members
 - **Benjamin**
+  - <a href="https://www.facebook.com/benjamin.profile"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  - <a href="https://twitter.com/benjamin.profile"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+  - <a href="https://www.linkedin.com/in/benjamin.profile"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  - <a href="https://www.instagram.com/benjamin.profile"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 - **Eman**
+  - <a href="https://www.facebook.com/eman.profile"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  - <a href="https://twitter.com/eman.profile"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+  - <a href="https://www.linkedin.com/in/eman.profile"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  - <a href="https://www.instagram.com/eman.profile"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 - **Ramz (Team Lead)**
+  - <a href="https://www.facebook.com/ramezhany.online"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  - <a href="https://twitter.com/rramezhany"><img src="https://img.shields.io/badge/x-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+  - <a href="https://www.linkedin.com/in/rramezhany"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  - <a href="https://www.instagram.com/rramez.hany"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 
 ## Overview
 Welcome to the BER team repository! We are a team of passionate programmers dedicated to solving complex problems and improving our skills in various areas of computer science.
